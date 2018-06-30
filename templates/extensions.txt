@@ -1,0 +1,5 @@
+extensions:
+1.Share
+2.Like,DisLike
+3.Chat
+4.admin
